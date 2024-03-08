@@ -30,6 +30,8 @@
     . C-Certificate Fundação Getúlio Vargas - Autoinstrucional.
     . Cetificado Curso Full-Stack  JavaScript - OneBITCode.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoelia&hide_progress=true)
+
 
 
   
