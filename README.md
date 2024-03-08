@@ -22,6 +22,14 @@
 
 </div>
 
+ Apaixonado por tecnologia e por jogos digitais desde os três anos de idade.
+
+ ## Cursos:
+
+    . Certificado Cisco Networking Academy - Cibersecurity Essentials.
+    . C-Certificate Fundação Getúlio Vargas - Autoinstrucional.
+    . Cetificado Curso Full-Stack  JavaScript - OneBITCode.
+
 
 
   
