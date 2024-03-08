@@ -1,5 +1,5 @@
 
-### Olá, eu sou o João Elias😊
+### Olá, eu sou o João Elias😊👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eliasjf/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-elias-a74a92265/?locale=pt_BR)
